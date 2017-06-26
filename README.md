@@ -2,14 +2,14 @@
 
 ## Quick confession
 
-I've been developing, codng, building websites almost **TWO DECADES** and I am just beginning to feel comfortable owning the title *Developer*.
+I've been developing, coding, building websites almost **TWO DECADES** and I am just beginning to feel comfortable owning the title *Developer*.
 
 I'm more comfortable with terms like
 * tinkerer
 * hobbyist
 * web technician
 * troubleshooter
-* technician
+* buddy who helped me out
 
 ## Why?
 
@@ -17,7 +17,7 @@ I've admittedly pursued web development part time. It can be tough to break into
 
 ## What now?
 
-My wife and I recently returned to the D.C. area and I feel a rennaisance of ambition to seriously hone my skills and practically demonstrate working examples of my competencies through exercises and contributions to community projects. I'll shoot for practical project examples I'm tackling in the real world, and keep them running in [my repository](https://github.com/mikeritter).
+My wife and I recently returned to the D.C. area and I feel a rennaisance of ambition to seriously hone my skills and practically demonstrate working examples of my competencies through exercises and contributions to community projects. I'll shoot for practical project examples I'm tackling in the real world and keep them running in [my repository](https://github.com/mikeritter).
 
 ## My manfesto
 
