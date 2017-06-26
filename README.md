@@ -17,8 +17,12 @@ I've admittedly pursued web development part time. It can be tough to break into
 
 ## What now?
 
-My wife and I recently returned to the D.C. area and I feel a rennaisance of ambition to seriously hone my skills and practically demonstrate working examples of my competencies through exercises and contributions to community projects. I'll shoot for practical project examples I'm tackling in the real world, and keep them running in my repository.
+My wife and I recently returned to the D.C. area and I feel a rennaisance of ambition to seriously hone my skills and practically demonstrate working examples of my competencies through exercises and contributions to community projects. I'll shoot for practical project examples I'm tackling in the real world, and keep them running in [my repository](https://github.com/mikeritter).
 
 ## My manfesto
 
 This field is not only for the twenty-somethings. I'm a **DEVELOPER** darn it! And I'm not afraid to let the world know!
+
+Thanks for stopping by.
+
+![Mike](https://avatars1.githubusercontent.com/u/5655656?v=3&s=460)
