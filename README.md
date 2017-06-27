@@ -1,4 +1,6 @@
-# Pay no attention to the man behind the curtain.
+# <q>Pay no attention to the man behind the curtain.</q><cite>The Wizard of Oz</cite>
+
+[![Link to Scene from The Wizard of Oz on YouTube](https://img.youtube.com/vi/NZR64EF3OpA/0.jpg)](https://www.youtube.com/watch?v=NZR64EF3OpA)
 
 ## Quick confession
 
@@ -13,7 +15,7 @@ I'm more comfortable with terms like
 
 ## Why?
 
-I've admittedly pursued web development part time. It can be tough to break into this field and get an honest grasp on this stuff. Recently Beth Soderberg presented a remarkable slide deck <q>[I Learned to Code Through WordPress and So Can You](http://bethsoderberg.com/slides/2017/wordpress-dc/index.html#/)</q> that lays out her own surprisingly similar journey. Many of us in the field feel like impostors (read David Walsh's 2015 post <q>[I'm an Impostor](https://davidwalsh.name/impostor-syndrome)</q>).
+I've admittedly pursued web development part time. It can be tough to break into this field and get an honest grasp on this stuff. Recently Beth Soderberg presented a remarkable slide deck <q>[I Learned to Code Through WordPress and So Can You](http://bethsoderberg.com/slides/2017/wordpress-dc/index.html#/)</q> that lays out her own surprisingly similar journey. Web professionals operate in silos, collaborating or consulting with others, but realizing or communicating our own espertise is difficult. So I'm actually pulling back thr curtain so I no longer feel like an impostor (read David Walsh's 2015 post <q>[I'm an Impostor](https://davidwalsh.name/impostor-syndrome)</q>), but a demonstrated professional.
 
 ## What now?
 
